@@ -1,7 +1,11 @@
 .container {
   color: white;
+<<<<<<< HEAD
   font-weight: bold;
   font-size: 50px;
+=======
+  font-size: xxx-large;
+>>>>>>> m/master
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -9,6 +13,7 @@
   gap: normal;
 }
 
+<<<<<<< HEAD
 .tittle {
   font-size: 50px;
   font-weight: bold;
@@ -18,10 +23,17 @@
 .row {
   display: flex;
   justify-content: center;
+=======
+.row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+>>>>>>> m/master
 }
 
 .section {
   flex: 1;
+<<<<<<< HEAD
   width: 700px;
   height: 400px;
   display: flex;
@@ -62,3 +74,8 @@
     }
   }
 }
+=======
+  margin: 100px;
+  border: 1px solid white;
+}
+>>>>>>> m/master
