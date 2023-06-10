@@ -1,7 +1,7 @@
 .container {
   color: white;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 70px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,9 +10,9 @@
 }
 
 .tittle {
-  font-size: 50px;
+  font-size: 80px;
   font-weight: bold;
-  margin: auto;
+  margin-bottom: 10px;
 }
 
 .row {
@@ -21,8 +21,8 @@
 }
 
 .section {
-  width: 700px;
-  height: 400px;
+  width: 820px;
+  height: 500px;
   padding: 20px;
   display: flex;
   flex-direction: column;
@@ -47,7 +47,7 @@
   }
 
   .zone-title {
-    font-size: 50px;
+    font-size: 90px;
     margin-bottom: 10px;
   }
 
