@@ -44,7 +44,7 @@ const ScreenDivisions: FC = () => {
                             <ul className="data">
                                 {zona.datos.map((valor, index) => (
                                     <li key={index} className="data-item">
-                                        {valor}
+                                        {valor}-
                                     </li>
                                 ))}
                             </ul>
@@ -59,7 +59,7 @@ const ScreenDivisions: FC = () => {
                             <ul className="data">
                                 {zona.datos.map((valor, index) => (
                                     <li key={index} className="data-item">
-                                        {valor}
+                                        {valor}-
                                     </li>
                                 ))}
                             </ul>
